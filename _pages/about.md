@@ -50,6 +50,14 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
   Peiyan Zhang, **Haoyang Liu**, Chaozhuo Li, Xing Xie, Sunghun Kim, Haohan Wang
   *ICLR 2024*
 
+- **Towards Trustworthy and Aligned Machine Learning: A Data-Centric Survey with Causality Perspectives**
+  **Haoyang Liu**, Malay Chaudhary, Haohan Wang
+  *arXiv preprint*, 2023
+
+- **UIUC_BioNLP at SemEval-2021 Task 11: A Cascade of Neural Models for Structuring Scholarly NLP Contributions**
+  **Haoyang Liu**, Maria Joann Sarol, Halil Kilicoglu
+  *SemEval 2021* **(Best System Paper Award)**
+
 
 # Education
 - *2023 - Present*, Ph.D. in Informatics, University of Illinois Urbana-Champaign
