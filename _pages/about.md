@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Informatics at the School of Information Sciences, University of Illinois Urbana-Champaign, advised by Prof. [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludaescher).
+I am a PhD student in Informatics at the School of Information Sciences, University of Illinois Urbana-Champaign, advised by Prof. [Bertram Ludäscher](https://scholar.google.com/citations?user=nYx9xasAAAAJ&hl=en).
 
-My research interests include **Neuro-Symbolic AI**, **LLM Agents**, and **Data-Efficient Learning**. I aim to do research that is both theoretically grounded and practically effective, with a particular interest in combining formal methods with LLM agents for trustworthy reasoning and automation, with applications in biomedical and legal domains.
+My research interests include **Neuro-Symbolic AI**, **LLM Agents**, and **Data-Efficient Learning**, with a particular interest in combining formal methods with LLM agents for trustworthy reasoning and automation, with applications in biomedical and legal domains.
 
 You can find my publications on <a href='https://scholar.google.com/citations?user=1jLWSKAAAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -64,4 +64,4 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # Contact
-Feel free to reach out via email at haoyang6@illinois.edu.
+Feel free to reach out via email at hl57@illinois.edu.

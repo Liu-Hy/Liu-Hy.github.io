@@ -9,7 +9,7 @@
 title                    : "Haoyang Liu"
 description              : "PhD Student at University of Illinois Urbana-Champaign. Research interests include Neuro-Symbolic AI, LLM Agents, and Data-Efficient Learning."
 repository               : "Liu-Hy/Liu-Hy.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -28,7 +28,7 @@ author:
   employer         : "University of Illinois Urbana-Champaign"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1jLWSKAAAAAJ"
-  email            : "haoyang6@illinois.edu"
+  email            : "hl57@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
