@@ -80,7 +80,7 @@ A benchmark for evaluating LLM agents on automated gene expression analysis, fea
 
 *The 2nd Conference on Parsimony and Learning (CPAL)*, 2025
 
-Generalizes the nullspace concept from linear layers to non-linear ViT encoder blocks, enabling robustness improvements via nullspace-augmented finetuning that enhances both adversarial and natural robustness simultaneously.
+Generalizes the nullspace concept from linear layers to non-linear ViT encoder blocks, enhancing both adversarial and natural robustness while maintaining clean accuracy.
 
 [[arXiv]](https://arxiv.org/abs/2403.10476) [[OpenReview]](https://openreview.net/forum?id=zH3Zwx3dLQ)
 </div>
