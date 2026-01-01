@@ -150,9 +150,9 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 
 <span class='anchor' id='honors-and-awards'></span>
 # Honors and Awards
-- *2022*, [**List of Teachers Ranked as Excellent**](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent), University of Illinois Urbana-Champaign
-- *2021*, [**Best System Paper Award**](https://aclanthology.org/2021.semeval-1.44/) (1st place out of 175 submissions), SemEval 2021
-- *2018*, **First Prize**, 10th Chinese Mathematics Competition for College Students (Non-Mathematics Category)
+- *2022*, [**List of Teachers Ranked as Excellent**](https://ischool.illinois.edu/news-events/news/2023/03/ischool-instructors-ranked-excellent), University of Illinois Urbana-Champaign
+- *2021*, [**Best System Paper Award**](https://semeval.github.io/SemEval2021/awards) (1st place out of 175 submissions), SemEval 2021
+- *2018*, **First Prize (Beijing Division)**, 10th Chinese Mathematics Competition for College Students, Non-Math-Major Category
 
 <span class='anchor' id='education'></span>
 # Education
@@ -163,8 +163,8 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
 - *2025.03*, **Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**, [CPAL 2025](https://2025.cpal.cc/orals/) Highlight Talk, Stanford University
-- *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
 - *2021.11*, **NLP in Scientific Literature**, Research Showcase, UIUC School of Information Sciences
+- *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
 
 <span class='anchor' id='teaching-and-services'></span>
 # Teaching and Services
@@ -176,7 +176,7 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 
 **Academic Services**
 - **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024), ICLR (2024-2026), CVPR (2025-2026)
-- **Program Committee**: AAAI 2026, KDD 2026 D&B Track
+- **Program Committee Member**: AAAI 2026, KDD 2026 D&B Track
 
 <span class='anchor' id='internships'></span>
 # Internships
