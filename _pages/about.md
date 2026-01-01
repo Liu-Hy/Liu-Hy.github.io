@@ -37,7 +37,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 A multi-agent framework that combines workflow controllability with agentic autonomy for automated gene expression analysis. Features a guided-planning mechanism that enables agents to dynamically advance, revise, or backtrack while maintaining logical coherence.
 
-[[arXiv]](https://arxiv.org/abs/2507.21035) [[Code]](https://github.com/Liu-Hy/GenoMAS) [[Project]](https://liu-hy.github.io/GenoMAS/)
+[[Website]](https://liu-hy.github.io/GenoMAS/) [[Paper]](https://arxiv.org/abs/2507.21035) [[Code]](https://github.com/Liu-Hy/GenoMAS)
 </div>
 </div>
 
@@ -52,7 +52,7 @@ A multi-agent framework that combines workflow controllability with agentic auto
 
 Leverages optimal transport theory for dataset distillation, using Wasserstein barycenter to preserve geometric characteristics of the original data distribution. Achieves consistent state-of-the-art performance across multiple high-resolution benchmarks.
 
-[[Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Dataset_Distillation_via_the_Wasserstein_Metric_ICCV_2025_paper.html) [[arXiv]](https://arxiv.org/abs/2311.18531) [[Code]](https://github.com/Liu-Hy/WMDD) [[Project]](https://liu-hy.github.io/WMDD/)
+[[Website]](https://liu-hy.github.io/WMDD/) [[Paper]](https://arxiv.org/abs/2311.18531) [[Code]](https://github.com/Liu-Hy/WMDD)
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Leverages optimal transport theory for dataset distillation, using Wasserstein b
 
 A benchmark for evaluating LLM agents on automated gene expression analysis, featuring 913 real-world datasets with realistic complexities covering 132 human traits.
 
-[[arXiv]](https://arxiv.org/abs/2406.15341) [[Code]](https://github.com/Liu-Hy/GenoTEX) [[Project]](https://liu-hy.github.io/GenoTEX/)
+[[Website]](https://liu-hy.github.io/GenoTEX/) [[Paper]](https://arxiv.org/abs/2406.15341) [[Code]](https://github.com/Liu-Hy/GenoTEX) [[Dataset]](https://huggingface.co/datasets/Liu-Hy/GenoTEX)
 </div>
 </div>
 
@@ -82,7 +82,7 @@ A benchmark for evaluating LLM agents on automated gene expression analysis, fea
 
 Generalizes the nullspace concept from linear layers to non-linear ViT encoder blocks, enhancing both adversarial and natural robustness while maintaining clean accuracy.
 
-[[arXiv]](https://arxiv.org/abs/2403.10476) [[OpenReview]](https://openreview.net/forum?id=zH3Zwx3dLQ)
+[[Website]](https://liu-hy.github.io/NS-ViT/) [[Paper]](https://arxiv.org/abs/2403.10476) [[Code]](https://github.com/Liu-Hy/ns-vit)
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Eric Xue, Yijiang Li, **Haoyang Liu**, Yang Shen, Haohan Wang
 
 Embeds adversarial robustness into distilled datasets via curvature regularization. Minimizes loss landscape curvature during distillation, reducing adversarial vulnerability with significantly less overhead than adversarial training.
 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32978) [[arXiv]](https://arxiv.org/abs/2403.10045) [[Code]](https://github.com/yumozi/GUARD)
+[[Website]](https://yumozi.github.io/GUARD/) [[Paper]](https://arxiv.org/abs/2403.10045) [[Code]](https://github.com/yumozi/GUARD)
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Peiyan Zhang, **Haoyang Liu**, Chaozhuo Li, Xing Xie, Sunghun Kim, Haohan Wang
 
 A dynamic robustness evaluation protocol using foundation models as surrogate oracles, enabling evaluation beyond fixed benchmarks through semantically bounded perturbations.
 
-[[Paper]](https://openreview.net/forum?id=jd5GokdySz) [[arXiv]](https://arxiv.org/abs/2308.10632)
+[[Paper]](https://arxiv.org/abs/2308.10632)
 </div>
 </div>
 
@@ -127,7 +127,7 @@ A dynamic robustness evaluation protocol using foundation models as surrogate or
 
 A data-centric survey on trustworthy ML covering robustness, security, interpretability, and fairness, unified through Pearl's causal hierarchy.
 
-[[arXiv]](https://arxiv.org/abs/2307.16851) [[Project]](https://trustworthyartificialintelligence.github.io/papers/trustworthyMLsurvey.html)
+[[Website]](https://trustworthyartificialintelligence.github.io/papers/trustworthyMLsurvey.html) [[Paper]](https://arxiv.org/abs/2307.16851)
 </div>
 </div>
 
@@ -142,7 +142,7 @@ A data-centric survey on trustworthy ML covering robustness, security, interpret
 
 A cascade of neural models combining BERT-based classifiers with rule-based systems for extracting structured contributions from NLP papers. Ranked first overall across all evaluation phases.
 
-[[Paper]](https://aclanthology.org/2021.semeval-1.45/) [[arXiv]](https://arxiv.org/abs/2105.05435) [[Code]](https://github.com/Liu-Hy/nlp-contrib-graph)
+[[Paper]](https://arxiv.org/abs/2105.05435) [[Code]](https://github.com/Liu-Hy/nlp-contrib-graph)
 </div>
 </div>
 
