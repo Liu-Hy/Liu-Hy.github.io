@@ -8,21 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am Haoyang Liu, a PhD student in Informatics at the [School of Information Sciences](https://ischool.illinois.edu/), University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludaescher). Prior to that, I worked with Prof. [Haohan Wang](https://haohanwang.github.io/) on trustworthy machine learning, and interned at BNRist, Tsinghua University advised by Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en).
 
 My research aims to develop **trustworthy machine learning** methods and systems. I have studied ways to evaluate and improve model robustness ([ICLR 2024](https://openreview.net/forum?id=jd5GokdySz), [CPAL 2025 Oral](https://arxiv.org/abs/2403.10476)), dataset distillation for more compute- and data-efficient learning that also improves robustness ([AAAI 2025](https://arxiv.org/abs/2403.10045), [ICCV 2025](https://arxiv.org/abs/2311.18531)), and LLM agents for robust automation of biomedical data analysis workflows ([MLCB 2025 Oral](https://arxiv.org/abs/2406.15341)). Currently, I am interested in combining **formal methods** with **LLM agents** for trustworthy reasoning and automation, with applications in biomedical and legal domains.
-
-You can find my publications on <a href='https://scholar.google.com/citations?user=1jLWSKAAAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
 
 <span class='anchor' id='publications'></span>
 # Publications

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyang Liu"
-description              : "PhD Student at University of Illinois Urbana-Champaign. Research interests include Neuro-Symbolic AI, LLM Agents, and Data-Efficient Learning."
+description              : "Research interests include Neuro-Symbolic AI, LLM Agents, and Data-Efficient Learning."
 repository               : "Liu-Hy/Liu-Hy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyang Liu"
   avatar           : "images/profile.jpg"
-  bio              : "PhD Student @ UIUC iSchool"
+  bio              : "PhD Student @ UIUC"
   location         : "Urbana, IL"
   employer         :
   pubmed           :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "haoyang-liu-ted"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "Liu_Hyy" 
   vine             :
   weibo            :
   xing             :
