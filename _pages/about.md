@@ -147,9 +147,30 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 </div>
 
 
-# Education
-- *2023 - Present*, Ph.D. in Informatics, University of Illinois Urbana-Champaign
+# Honors and Awards
+- *2022*, **List of Teachers Ranked as Excellent**, University of Illinois Urbana-Champaign
+  - Recognized for outstanding teaching performance as Instructor of Record for IS 203: Analytical Foundations
+- *2021*, **Best System Paper Award (1/175)**, SemEval 2021 - 15th International Workshop on Semantic Evaluation
+  - Awarded for exceptional system design in structuring scholarly NLP contributions
 
+# Education
+- *2020.06 - Present*, **Ph.D. in Informatics**, University of Illinois Urbana-Champaign, USA
+  - GPA: 3.71/4.00
+  - Research Focus: Robust and data-efficient learning; LLM agents for scientific discovery, data curation, and human-agent collaboration
+- *2016.09 - 2020.06*, **B.S. in Telecommunication Engineering**, Beijing University of Posts and Telecommunications, China
+  - GPA: 3.75/4.00
+
+# Invited Talks
+- *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
+  - Presented winning system for structuring scholarly NLP contributions
+- *2021.11*, **Research Showcase - NLP in Scientific Literature**, UIUC School of Information Sciences
+  - Showcased research on automated scientific paper analysis
+
+# Internships
+- *2019.03 - 2019.09*, **Research Intern**, Tsinghua National Laboratory for Information Science and Technology (BNRist), Beijing, China
+  - Advisor: Prof. Chunxiao Xing & Guigang Zhang
+  - Developed automated system to construct medical knowledge graphs from electronic health records
+  - Built multimodal neural network combining CNN for clinical notes with fully connected layers for tabular data to predict diabetes risk
 
 # Contact
 Feel free to reach out via email at hl57@illinois.edu.
