@@ -169,7 +169,7 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 # Teaching and Services
 
 **Teaching**
-- *2022 - 2023*, **Instructor of Record**, IS 203: Analytical Foundations, UIUC
+- *2022 - 2023*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
 - *2024*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
 - *2023*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
 
