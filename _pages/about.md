@@ -152,7 +152,6 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 # Honors and Awards
 - *2022*, [**List of Teachers Ranked as Excellent**](https://ischool.illinois.edu/news-events/news/2023/03/ischool-instructors-ranked-excellent), University of Illinois Urbana-Champaign
 - *2021*, [**Best System Paper Award**](https://semeval.github.io/SemEval2021/awards) (1st place out of 175 submissions), SemEval 2021
-- *2018*, **First Prize (Beijing Division)**, 10th Chinese Mathematics Competition for College Students, Non-Math-Major Category
 
 <span class='anchor' id='education'></span>
 # Education
