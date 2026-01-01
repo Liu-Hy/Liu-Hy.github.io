@@ -24,6 +24,7 @@ My research aims to develop **trustworthy machine learning** methods and systems
 You can find my publications on <a href='https://scholar.google.com/citations?user=1jLWSKAAAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
+<span class='anchor' id='publications'></span>
 # Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href="images/paper1_full.png" target="_blank"><img src='images/paper1_thumb.jpg' alt="GenoMAS" width="100%"></a></div></div>
@@ -147,30 +148,39 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 </div>
 
 
+<span class='anchor' id='honors-and-awards'></span>
 # Honors and Awards
-- *2022*, **List of Teachers Ranked as Excellent**, University of Illinois Urbana-Champaign
-  - Recognized for outstanding teaching performance as Instructor of Record for IS 203: Analytical Foundations
-- *2021*, **Best System Paper Award (1/175)**, SemEval 2021 - 15th International Workshop on Semantic Evaluation
-  - Awarded for exceptional system design in structuring scholarly NLP contributions
+- *2022*, [**List of Teachers Ranked as Excellent**](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent), University of Illinois Urbana-Champaign
+- *2021*, [**Best System Paper Award**](https://aclanthology.org/2021.semeval-1.44/) (1st place out of 175 submissions), SemEval 2021
+- *2018*, **First Prize**, 10th Chinese Mathematics Competition for College Students (Non-Mathematics Category)
 
+<span class='anchor' id='education'></span>
 # Education
 - *2020.06 - Present*, **Ph.D. in Informatics**, University of Illinois Urbana-Champaign, USA
-  - GPA: 3.71/4.00
-  - Research Focus: Robust and data-efficient learning; LLM agents for scientific discovery, data curation, and human-agent collaboration
+- *2020.01 - 2020.05*, **Visiting Student in Computer Science**, Illinois Institute of Technology, USA
 - *2016.09 - 2020.06*, **B.S. in Telecommunication Engineering**, Beijing University of Posts and Telecommunications, China
-  - GPA: 3.75/4.00
 
+<span class='anchor' id='invited-talks'></span>
 # Invited Talks
+- *2025.03*, **Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**, [CPAL 2025](https://2025.cpal.cc/orals/) Highlight Talk, Stanford University
 - *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
-  - Presented winning system for structuring scholarly NLP contributions
-- *2021.11*, **Research Showcase - NLP in Scientific Literature**, UIUC School of Information Sciences
-  - Showcased research on automated scientific paper analysis
+- *2021.11*, **NLP in Scientific Literature**, Research Showcase, UIUC School of Information Sciences
 
+<span class='anchor' id='teaching-and-services'></span>
+# Teaching and Services
+
+**Teaching**
+- *2022 - 2023*, **Instructor of Record**, IS 203: Analytical Foundations, UIUC
+- *2024*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
+- *2023*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
+
+**Academic Services**
+- **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024), ICLR (2024-2026), CVPR (2025-2026)
+- **Program Committee**: AAAI 2026, KDD 2026 D&B Track
+
+<span class='anchor' id='internships'></span>
 # Internships
 - *2019.03 - 2019.09*, **Research Intern**, Tsinghua National Laboratory for Information Science and Technology (BNRist), Beijing, China
-  - Advisor: Prof. Chunxiao Xing & Guigang Zhang
+  - Advisor: Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en) & Guigang Zhang
   - Developed automated system to construct medical knowledge graphs from electronic health records
-  - Built multimodal neural network combining CNN for clinical notes with fully connected layers for tabular data to predict diabetes risk
-
-# Contact
-Feel free to reach out via email at hl57@illinois.edu.
+  - Built multimodal neural network for diabetes risk prediction from clinical notes and tabular data
