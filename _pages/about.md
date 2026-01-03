@@ -12,10 +12,10 @@ redirect_from:
 
 I am Haoyang Liu, a PhD student in Informatics at the [School of Information Sciences](https://ischool.illinois.edu/), University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludaescher). Prior to that, I worked with Prof. [Haohan Wang](https://haohanwang.github.io/) on trustworthy machine learning, and interned at BNRist, Tsinghua University advised by Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en).
 
-My research aims to develop **trustworthy machine learning** methods and systems. I have studied ways to evaluate and improve model robustness ([ICLR 2024](https://openreview.net/forum?id=jd5GokdySz), [CPAL 2025 Oral](https://arxiv.org/abs/2403.10476)), dataset distillation for more compute- and data-efficient learning that also improves robustness ([AAAI 2025](https://arxiv.org/abs/2403.10045), [ICCV 2025](https://arxiv.org/abs/2311.18531)), and LLM agents for robust automation of biomedical data analysis workflows ([MLCB 2025 Oral](https://arxiv.org/abs/2406.15341)). Currently, I am interested in combining **formal methods** with **LLM agents** for trustworthy reasoning and automation, with applications in biomedical and legal domains.
+My research aims to develop **trustworthy machine learning** methods and systems. I have studied ways to evaluate and improve model robustness ([ICLR 2024](https://openreview.net/forum?id=jd5GokdySz), [CPAL 2025 Oral](https://arxiv.org/abs/2403.10476)), dataset distillation for more compute- and data-efficient learning ([ICCV 2025](https://arxiv.org/abs/2311.18531)) that also improves robustness ([AAAI 2025](https://arxiv.org/abs/2403.10045)), and LLM agents for robust automation of biomedical data analysis workflows ([MLCB 2025 Oral](https://arxiv.org/abs/2406.15341)). Currently, I am interested in combining **formal methods** with **LLM agents** for trustworthy reasoning and automation, with applications in biomedical and legal domains.
 
 <span class='anchor' id='publications'></span>
-# Publications
+# Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href="images/paper1_full.png" target="_blank"><img src='images/paper1_thumb.jpg' alt="GenoMAS" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -131,7 +131,7 @@ A data-centric survey on trustworthy ML covering robustness, security, interpret
 
 *The 15th International Workshop on Semantic Evaluation (SemEval)*, 2021
 
-A cascade of neural models combining BERT-based classifiers with rule-based systems for extracting structured contributions from NLP papers. Ranked first overall across all evaluation phases.
+A neuro-symbolic approach combining BERT-based classifiers with rule-based systems for extracting structured contributions from NLP papers. Ranked first overall across all evaluation phases.
 
 [[Paper]](https://arxiv.org/abs/2105.05435) [[Code]](https://github.com/Liu-Hy/nlp-contrib-graph)
 </div>
@@ -152,16 +152,16 @@ A cascade of neural models combining BERT-based classifiers with rule-based syst
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
 - *2025.03*, **Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**, [CPAL 2025](https://2025.cpal.cc/orals/) Highlight Talk, Stanford University
-- *2021.11*, **NLP in Scientific Literature**, Research Showcase, UIUC School of Information Sciences
+- *2021.11*, **Information Extraction from NLP Literature**, Research Showcase, UIUC School of Information Sciences
 - *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
 
 <span class='anchor' id='teaching-and-services'></span>
 # Teaching and Services
 
 **Teaching**
-- *2022 - 2023*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
-- *2024*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
-- *2023*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
+- *FA22 - SP23*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
+- *SP24*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
+- *FA23*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
 
 **Academic Services**
 - **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024), ICLR (2024-2026), CVPR (2025-2026)
