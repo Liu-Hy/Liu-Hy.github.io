@@ -37,7 +37,7 @@ A multi-agent framework that combines workflow controllability with agentic auto
 
 **Dataset Distillation via the Wasserstein Metric**
 
-**Haoyang Liu**, Yijiang Li, Tiancheng Xing, Vibhu Dalal, Luwei Li, Jingrui He, Haohan Wang
+**Haoyang Liu**, Yijiang Li, Tiancheng Xing, Peiran Wang, Vibhu Dalal, Luwei Li, Jingrui He, Haohan Wang
 
 *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025
 
@@ -82,7 +82,7 @@ Generalizes the nullspace concept from linear layers to non-linear ViT encoder b
 
 **Towards Adversarially Robust Dataset Distillation by Curvature Regularization**
 
-Eric Xue, Yijiang Li, **Haoyang Liu**, Yang Shen, Haohan Wang
+Eric Xue, Yijiang Li, **Haoyang Liu**, Peiran Wang, Yifan Shen, Haohan Wang
 
 *The 39th AAAI Conference on Artificial Intelligence (AAAI)*, 2025
 
@@ -169,7 +169,7 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 
 <span class='anchor' id='internships'></span>
 # Internships
-- *2019.03 - 2019.09*, **Research Intern**, Tsinghua National Laboratory for Information Science and Technology (BNRist), Beijing, China
+- *2019.03 - 2019.09*, **Research Intern**, Beijing National Research Center for Information Science and Technology (BNRist), Tsinghua University, Beijing, China
   - Advisor: Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en) & Guigang Zhang
   - Developed automated system to construct medical knowledge graphs from electronic health records
   - Built multimodal neural network for diabetes risk prediction from clinical notes and tabular data
