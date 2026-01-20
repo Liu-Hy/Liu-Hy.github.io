@@ -54,7 +54,7 @@ Leverages optimal transport theory for dataset distillation, using Wasserstein b
 
 **Haoyang Liu**, Shuyu Chen, Ye Zhang, Haohan Wang
 
-*The 20th Machine Learning in Computational Biology Conference (MLCB)*, 2025 🎖️ **Oral** *(14.4%)*
+*The 20th Machine Learning in Computational Biology Conference (MLCB)*, 2025 🎖️ *Oral (14.4%)*
 
 A benchmark for evaluating LLM agents on automated gene expression analysis, featuring 913 real-world datasets with realistic complexities covering 132 human traits.
 
@@ -69,7 +69,7 @@ A benchmark for evaluating LLM agents on automated gene expression analysis, fea
 
 **Haoyang Liu**, Aditya Singh, Yijiang Li, Haohan Wang
 
-*The 2nd Conference on Parsimony and Learning (CPAL)*, 2025 🎖️ **Oral** *(12.7%)*
+*The 2nd Conference on Parsimony and Learning (CPAL)*, 2025 🎖️ *Oral (12.7%)*
 
 Generalizes the nullspace concept from linear layers to non-linear ViT encoder blocks, enhancing both adversarial and natural robustness while maintaining clean accuracy.
 
@@ -129,7 +129,7 @@ A data-centric survey on trustworthy ML covering robustness, security, interpret
 
 **Haoyang Liu**, Janina Sarol, Halil Kilicoglu
 
-*The 15th International Workshop on Semantic Evaluation (SemEval)*, 2021 🏆 **Best System Paper** *(1/175)*
+*The 15th International Workshop on Semantic Evaluation (SemEval)*, 2021 🏆 *Best System Paper (1/175)*
 
 A neuro-symbolic approach combining BERT-based classifiers with rule-based systems for extracting structured contributions from NLP papers. Ranked first overall across all evaluation phases.
 
@@ -176,4 +176,4 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 
 ---
 
-<p id="name-note" style="font-size: 0.9em; color: #666;"><sup>*</sup> In Chinese: 刘昊洋. Pronounced as <em>HOW-yahng LYOH</em> (or <em>Lee-oh</em>).</p>
+<p id="name-note" style="font-size: 0.9em; color: #666;"><sup>*</sup> Written in Chinese as 刘昊洋. Pronounced as <em>How-yahng Lee-oh</em>.</p>
