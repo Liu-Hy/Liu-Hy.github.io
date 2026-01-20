@@ -176,4 +176,4 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 
 ---
 
-<p id="name-note" style="font-size: 0.9em; color: #666;"><sup>*</sup> Written in Chinese as 刘昊洋. Pronounced as <em>How-yahng Lee-oh</em>.</p>
+<p id="name-note" style="font-size: 0.9em; color: #666;"><sup>*</sup> My name is written in Chinese as 刘昊洋 and pronounced as <em>How-yahng Lee-oh</em>.</p>
