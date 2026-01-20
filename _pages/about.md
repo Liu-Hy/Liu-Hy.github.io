@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Haoyang Liu, a PhD student in Informatics at the [School of Information Sciences](https://ischool.illinois.edu/), University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. [Bertram Ludäscher](https://scholar.google.com/citations?user=nYx9xasAAAAJ&hl=en). Prior to that, I had the opportunity to work with Prof. [Haohan Wang](https://haohanwang.github.io/) on trustworthy ML, Prof. [Halil Kilicoglu](https://kilicogluh.github.io/) on biomedical NLP, and interned at BNRist, Tsinghua University advised by Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en).
+I am Haoyang Liu<sup>[*](#name-note)</sup>, a PhD student in Informatics at the [School of Information Sciences](https://ischool.illinois.edu/), University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. [Bertram Ludäscher](https://scholar.google.com/citations?user=nYx9xasAAAAJ&hl=en). Prior to that, I had the opportunity to work with Prof. [Haohan Wang](https://haohanwang.github.io/) on trustworthy ML, Prof. [Halil Kilicoglu](https://kilicogluh.github.io/) on biomedical NLP, and interned at BNRist, Tsinghua University advised by Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en).
 
 My research aims to develop **trustworthy machine learning** methods and systems. I have studied ways to evaluate and improve model robustness ([ICLR 2024](https://arxiv.org/abs/2308.10632), [CPAL 2025 Oral](https://arxiv.org/abs/2403.10476)), dataset distillation for more compute- and data-efficient learning ([ICCV 2025](https://arxiv.org/abs/2311.18531)) that also improves robustness ([AAAI 2025](https://arxiv.org/abs/2403.10045)), and LLM agents for robust automation of biomedical data analysis workflows ([MLCB 2025 Oral](https://arxiv.org/abs/2406.15341)). Currently, I am interested in combining **formal methods** with **LLM agents** for trustworthy reasoning and automation, with applications in biomedical and legal domains.
 
@@ -50,11 +50,11 @@ Leverages optimal transport theory for dataset distillation, using Wasserstein b
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLCB 2025</div><a href="images/paper3_full.jpg" target="_blank"><img src='images/paper3_thumb.jpg' alt="GenoTEX" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis** ⭐ *Oral (14.4%)*
+**GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis**
 
 **Haoyang Liu**, Shuyu Chen, Ye Zhang, Haohan Wang
 
-*The 20th Machine Learning in Computational Biology Conference (MLCB)*, 2025
+*The 20th Machine Learning in Computational Biology Conference (MLCB)*, 2025 🎖️ **Oral** *(14.4%)*
 
 A benchmark for evaluating LLM agents on automated gene expression analysis, featuring 913 real-world datasets with realistic complexities covering 132 human traits.
 
@@ -65,11 +65,11 @@ A benchmark for evaluating LLM agents on automated gene expression analysis, fea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPAL 2025</div><a href="images/paper4_full.png" target="_blank"><img src='images/paper4_thumb.jpg' alt="NAF" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers** ⭐ *Oral (12.7%)*
+**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**
 
 **Haoyang Liu**, Aditya Singh, Yijiang Li, Haohan Wang
 
-*The 2nd Conference on Parsimony and Learning (CPAL)*, 2025
+*The 2nd Conference on Parsimony and Learning (CPAL)*, 2025 🎖️ **Oral** *(12.7%)*
 
 Generalizes the nullspace concept from linear layers to non-linear ViT encoder blocks, enhancing both adversarial and natural robustness while maintaining clean accuracy.
 
@@ -125,11 +125,11 @@ A data-centric survey on trustworthy ML covering robustness, security, interpret
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SemEval 2021</div><a href="images/paper8_full.png" target="_blank"><img src='images/paper8_thumb.jpg' alt="SemEval System" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UIUC_BioNLP at SemEval-2021 Task 11: A Cascade of Neural Models for Structuring Scholarly NLP Contributions** 🏆 *Best System Paper (1/175)*
+**UIUC_BioNLP at SemEval-2021 Task 11: A Cascade of Neural Models for Structuring Scholarly NLP Contributions**
 
 **Haoyang Liu**, Janina Sarol, Halil Kilicoglu
 
-*The 15th International Workshop on Semantic Evaluation (SemEval)*, 2021
+*The 15th International Workshop on Semantic Evaluation (SemEval)*, 2021 🏆 **Best System Paper** *(1/175)*
 
 A neuro-symbolic approach combining BERT-based classifiers with rule-based systems for extracting structured contributions from NLP papers. Ranked first overall across all evaluation phases.
 
@@ -159,7 +159,7 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 # Teaching and Services
 
 **Teaching**
-- *FA22 - SP23*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
+- *FA22*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
 - *SP24*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
 - *FA23*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
 
@@ -173,3 +173,7 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
   - Advisor: Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en)
   - Developed automated system to construct medical knowledge graphs from electronic health records
   - Built multimodal neural network for diabetes risk prediction from clinical notes and tabular data
+
+---
+
+<p id="name-note" style="font-size: 0.9em; color: #666;"><sup>*</sup> In Chinese: 刘昊洋. Pronounced as <em>HOW-yahng LYOH</em> (or <em>Lee-oh</em>).</p>
