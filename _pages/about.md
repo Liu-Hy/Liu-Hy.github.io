@@ -142,6 +142,7 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 # Honors and Awards
 - *2022*, [**List of Teachers Ranked as Excellent**](https://ischool.illinois.edu/news-events/news/2023/03/ischool-instructors-ranked-excellent), University of Illinois Urbana-Champaign
 - *2021*, [**Best System Paper Award**](https://semeval.github.io/SemEval2021/awards) (1st place out of 175 submissions), SemEval 2021
+- *2018*, **First Prize**, National College Mathematics Competition (Beijing Region)
 
 <span class='anchor' id='education'></span>
 # Education
