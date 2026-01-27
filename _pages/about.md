@@ -41,7 +41,7 @@ A multi-agent framework that combines workflow controllability with agentic auto
 
 *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025
 
-Leverages optimal transport theory for dataset distillation, using Wasserstein barycenter to preserve geometric characteristics of the original data distribution. Achieves consistent state-of-the-art performance across multiple high-resolution benchmarks.
+Leverages optimal transport theory for dataset distillation, using Wasserstein barycenter to preserve geometric characteristics of data distributions. Achieves state-of-the-art performance across multiple high-resolution benchmarks.
 
 [[Website]](https://liu-hy.github.io/WMDD/) [[Paper]](https://arxiv.org/abs/2311.18531) [[Code]](https://github.com/Liu-Hy/WMDD)
 </div>
