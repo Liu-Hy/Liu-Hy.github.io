@@ -17,14 +17,14 @@ My research aims to develop **trustworthy machine learning** methods and systems
 <span class='anchor' id='publications'></span>
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href="images/paper1_full.png" target="_blank"><img src='images/paper1_thumb.jpg' alt="GenoMAS" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2026</div><a href="images/paper1_full.png" target="_blank"><img src='images/paper1_thumb.jpg' alt="GenoMAS" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis**
 
 **Haoyang Liu**, Yijiang Li, Haohan Wang
 
-*arXiv preprint*, 2025
+*Findings of the Association for Computational Linguistics: ACL*, 2026
 
 A multi-agent framework that combines workflow controllability with agentic autonomy for automated gene expression analysis. Features a guided-planning mechanism that enables agents to dynamically advance, revise, or backtrack while maintaining logical coherence.
 
