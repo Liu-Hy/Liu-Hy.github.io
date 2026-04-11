@@ -146,9 +146,24 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 
 <span class='anchor' id='education'></span>
 # Education
-- *2020.06 - Present*, **Ph.D. in Informatics**, University of Illinois Urbana-Champaign, USA
-- *2020.01 - 2020.05*, **Visiting Student in Computer Science**, Illinois Institute of Technology, USA
-- *2016.09 - 2020.06*, **B.S. in Telecommunication Engineering**, Beijing University of Posts and Telecommunications, China
+
+<div class="education-timeline">
+  <div class="timeline-item current">
+    <div class="timeline-date">2020.06 - Present</div>
+    <div class="timeline-degree">Ph.D. in Informatics</div>
+    <div class="timeline-school">University of Illinois Urbana-Champaign, USA</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2020.01 - 2020.05</div>
+    <div class="timeline-degree">Visiting Student in Computer Science</div>
+    <div class="timeline-school">Illinois Institute of Technology, USA</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2016.09 - 2020.06</div>
+    <div class="timeline-degree">B.S. in Telecommunication Engineering</div>
+    <div class="timeline-school">Beijing University of Posts and Telecommunications, China</div>
+  </div>
+</div>
 
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
@@ -170,10 +185,35 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 
 <span class='anchor' id='internships'></span>
 # Internships
-- *2019.03 - 2019.09*, **Research Intern**, Beijing National Research Center for Information Science and Technology (BNRist), Tsinghua University, Beijing, China
-  - Advisor: Prof. [Chunxiao Xing](https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en)
-  - Developed automated system to construct medical knowledge graphs from electronic health records
-  - Built multimodal neural network for diabetes risk prediction from clinical notes and tabular data
+
+<div class="internship-list">
+  <div class="internship-item">
+    <div class="internship-logo-wrapper">
+      <img src="images/amazon_logo.png" alt="Amazon" class="internship-logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-role">Applied Scientist Intern</div>
+      <div class="internship-company">Amazon, Seattle, USA</div>
+      <div class="internship-date">2026.05 - 2026.08</div>
+      <span class="internship-tag">Upcoming</span>
+    </div>
+  </div>
+  <div class="internship-item">
+    <div class="internship-logo-wrapper">
+      <img src="images/tsinghua_logo.png" alt="Tsinghua University" class="internship-logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-role">Research Intern</div>
+      <div class="internship-company">Beijing National Research Center for Information Science and Technology (BNRist), Tsinghua University, Beijing, China</div>
+      <div class="internship-date">2019.03 - 2019.09</div>
+      <ul class="internship-details">
+        <li>Advisor: Prof. <a href="https://scholar.google.com/citations?user=8uj6pAsAAAAJ&hl=en">Chunxiao Xing</a></li>
+        <li>Developed automated system to construct medical knowledge graphs from electronic health records</li>
+        <li>Built multimodal neural network for diabetes risk prediction from clinical notes and tabular data</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
