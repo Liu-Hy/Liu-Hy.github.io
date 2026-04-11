@@ -212,7 +212,8 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
 - *FA23*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
 
 **Academic Services**
-- **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024), ICLR (2024-2026), CVPR (2025-2026)
+- **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024, 2026), ICLR (2024-2026), CVPR (2025-2026), ICCV (2025), ECCV (2026)
+- **Journal Reviewer**: IEEE Transactions on Dependable and Secure Computing (TDSC)
 - **Program Committee Member**: AAAI 2026, KDD 2026 D&B Track
 
 ---
