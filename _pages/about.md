@@ -165,24 +165,6 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
   </div>
 </div>
 
-<span class='anchor' id='invited-talks'></span>
-# Invited Talks
-- *2025.03*, **Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**, [CPAL 2025](https://2025.cpal.cc/orals/) Highlight Talk, Stanford University
-- *2021.11*, **Information Extraction from NLP Literature**, Research Showcase, UIUC School of Information Sciences
-- *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
-
-<span class='anchor' id='teaching-and-services'></span>
-# Teaching and Services
-
-**Teaching**
-- *FA22*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
-- *SP24*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
-- *FA23*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
-
-**Academic Services**
-- **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024), ICLR (2024-2026), CVPR (2025-2026)
-- **Program Committee Member**: AAAI 2026, KDD 2026 D&B Track
-
 <span class='anchor' id='internships'></span>
 # Internships
 
@@ -214,6 +196,24 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
     </div>
   </div>
 </div>
+
+<span class='anchor' id='invited-talks'></span>
+# Invited Talks
+- *2025.03*, **Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**, [CPAL 2025](https://2025.cpal.cc/orals/) Highlight Talk, Stanford University
+- *2021.11*, **Information Extraction from NLP Literature**, Research Showcase, UIUC School of Information Sciences
+- *2021.08*, **UIUC_BioNLP System at SemEval-2021**, 15th International Workshop on Semantic Evaluation (Virtual)
+
+<span class='anchor' id='teaching-and-services'></span>
+# Teaching and Services
+
+**Teaching**
+- *FA22*, **Instructor of Record**, IS 203: Analytical Foundations for Information Problems, UIUC
+- *SP24*, **Teaching Assistant**, IS 597 TML: Trustworthy Machine Learning, UIUC
+- *FA23*, **Teaching Assistant**, IS 507: Data, Statistical Models, and Information, UIUC
+
+**Academic Services**
+- **Conference Reviewer**: ICML (2023-2024), NeurIPS (2024), ICLR (2024-2026), CVPR (2025-2026)
+- **Program Committee Member**: AAAI 2026, KDD 2026 D&B Track
 
 ---
 
