@@ -17,7 +17,7 @@ My research aims to develop **trustworthy machine learning** methods and systems
 <span class='anchor' id='publications'></span>
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><a href="images/paper1_full.png" target="_blank"><img src='images/paper1_thumb.jpg' alt="GenoMAS" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><a href="images/paper1_full.png" target="_blank"><img src='images/paper1_thumb.jpg' alt="GenoMAS" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis**
