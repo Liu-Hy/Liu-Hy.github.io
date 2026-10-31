@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyang Liu"
-description              : "Research interests include Neuro-Symbolic AI, LLM Agents, and Data-Efficient Learning."
+description              : "Research interests include multi-agent reasoning and data-efficient learning."
 repository               : "Liu-Hy/Liu-Hy.github.io"
 google_scholar_stats_use_cdn : false
 
