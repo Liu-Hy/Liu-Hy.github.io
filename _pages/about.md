@@ -182,6 +182,11 @@ A neuro-symbolic approach combining BERT-based classifiers with rule-based syste
       <div class="internship-role">Applied Scientist Intern</div>
       <div class="internship-company">Amazon, Seattle, USA</div>
       <div class="internship-date">2026.05 - 2026.07</div>
+      <ul class="internship-details">
+        <li>Built a self-improving multi-agent system that detects and corrects systematic errors in a product matching pipeline, improving F1 by 7 to 12% across product families while controlling inference cost</li>
+        <li>Used vision-language models as judges that combine product images and text to detect errors, diagnose their root causes, and route them to the appropriate optimization loop</li>
+        <li>Adapted prompt optimization algorithms such as GEPA and MIPROv2 to turn diagnosed errors into prompt rewrites, closing a loop in which the pipeline learns from its own mistakes and relies less on human audits</li>
+      </ul>
     </div>
   </div>
   <div class="internship-item">
